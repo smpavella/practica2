@@ -5,10 +5,14 @@ La Organización Mundial de la Salud ha estimado que ocurren 12 millones de muer
 
 El conjunto de datos está disponible públicamente en el sitio web de Kaggle, y proviene de un estudio cardiovascular en curso en residentes de la ciudad de Framingham, Massachusetts. El objetivo de la clasificación es predecir si el paciente tiene 10 años de riesgo de enfermedad coronaria (CHD) en el futuro. El conjunto de datos proporciona la información del paciente. Incluye más de 4,000 registros y 15 atributos.
 
+Se realiza regresión logística ya que el atributo objetivo es categórico, se implementa modelo para la predicción de la posibilidad de sufrir de enfermedad coronaria en los siguientes 10 años.
+
 **Elaborado por:**
 Sandra Milena Patiño Avella
 
 **Asignatura**
 Tipología y ciclo de vida de los datos
+
 Maestria en Ciencia de Datos
+
 UOC
